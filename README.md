@@ -44,7 +44,7 @@ Phase 5 — ML Direction Classification: Trained Random Forest and Logistic Regr
 Python · pandas · NumPy · statsmodels · arch · scikit-learn · matplotlib · seaborn · Jupyter
 
 ## Project Structure
-
+```
 bitcoin-volatility-forecasting/
 ├── data/
 │   └── bitcoin_dataset.csv
@@ -52,14 +52,16 @@ bitcoin-volatility-forecasting/
 │   └── 01_edabitcoin.ipynb
 ├── .gitignore
 └── README.md
+```
 
 ## How to Run
 
-'''bash
+```bash
 git clone https://github.com/MADEKUOROYE/bitcoin-volatility-forecasting.git
 cd bitcoin-volatility-forecasting
 pip install pandas numpy statsmodels arch scikit-learn matplotlib seaborn jupyter
-jupyter notebook notebooks/01_edabitcoin.ipynb'''
+jupyter notebook notebooks/01_edabitcoin.ipynb
+```
 
 ### Author
 Moses Adekuoroye — LinkedIn (https://www.linkedin.com/in/madekuoroye) · GitHub (https://github.com/MADEKUOROYE)
