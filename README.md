@@ -55,11 +55,11 @@ bitcoin-volatility-forecasting/
 
 ## How to Run
 
-`bash
+'''bash
 git clone https://github.com/MADEKUOROYE/bitcoin-volatility-forecasting.git
 cd bitcoin-volatility-forecasting
 pip install pandas numpy statsmodels arch scikit-learn matplotlib seaborn jupyter
-jupyter notebook notebooks/01_edabitcoin.ipynb
+jupyter notebook notebooks/01_edabitcoin.ipynb'''
 
-Author
+# Author
 Moses Adekuoroye — LinkedIn (https://www.linkedin.com/in/madekuoroye) · GitHub (https://github.com/MADEKUOROYE)
