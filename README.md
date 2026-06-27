@@ -63,6 +63,3 @@ jupyter notebook notebooks/01_edabitcoin.ipynb
 
 Author
 Moses Adekuoroye — LinkedIn (https://www.linkedin.com/in/madekuoroye) · GitHub (https://github.com/MADEKUOROYE)
-Python · pandas · NumPy · statsmodels · arch · scikit-learn · matplotlib · seaborn · Jupyter
-
-## Project Structure
