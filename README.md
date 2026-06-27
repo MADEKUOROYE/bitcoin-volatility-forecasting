@@ -61,5 +61,5 @@ cd bitcoin-volatility-forecasting
 pip install pandas numpy statsmodels arch scikit-learn matplotlib seaborn jupyter
 jupyter notebook notebooks/01_edabitcoin.ipynb'''
 
-# Author
+### Author
 Moses Adekuoroye — LinkedIn (https://www.linkedin.com/in/madekuoroye) · GitHub (https://github.com/MADEKUOROYE)
